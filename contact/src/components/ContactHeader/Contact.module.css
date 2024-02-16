@@ -7,3 +7,8 @@
 .contact p{
     font-weight: 500;
 }
+.top{
+
+    display: flex;
+    gap: 34px;
+}
