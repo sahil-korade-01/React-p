@@ -1,10 +1,10 @@
 import styles from './Button.module.css'
 
-const Button = (props) => {
+const Button = ({icon,text}) => {
   return (
     <button className={styles.p_btn}>
-    {props.icon}
-    {props.text}
+    {icon}
+    {text}
 
 
     </button>

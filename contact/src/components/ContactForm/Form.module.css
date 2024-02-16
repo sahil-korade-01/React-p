@@ -5,3 +5,15 @@
     margin: 0 auto;
     
 }
+.form_control{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+}
+.form_control input{
+    height: 40px;
+    padding: 0  8px;
+    top: -12px;
+    background-color: wheat;
+    padding: 0 10px;
+}
