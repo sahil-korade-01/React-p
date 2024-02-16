@@ -30,6 +30,7 @@ const Form = () => {
         
         <input textarea="text"   name=""/>
         </div>
+        <button type="submit">Submit</button>
         </form>
       </div>
       <div className={styles.img}></div>
