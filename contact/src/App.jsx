@@ -1,10 +1,11 @@
+import Navigation from "./components/Navigation"
 
 
 function App() {
 
   return (
     <>
-     <h1>sahil Contact page</h1>
+   <Navigation/>
     </>
   )
 }
